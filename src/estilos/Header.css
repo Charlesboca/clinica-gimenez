@@ -1,0 +1,39 @@
+.header-logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+.site-header {
+  background: #ffffff;
+  padding: 20px 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 15px;
+}
+
+.header-brand {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.header-logo-icon {
+  font-size: 2.5rem;
+  background: #ebf8ff;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.header-titles h1 {
+  color: #1a365d;
+  font-size: 1.6rem;
+  margin-bottom: 2px;
+}
+
+.header-titles p {
+  color: #718096;
+  font-size: 0.95rem;
+}
